@@ -33,13 +33,9 @@ em seguida acessar o link.
 
 Nesse projeto seguimos a seguinte arquitetura:
 
-```mermaid
-    graph LR
-    A[Controller] --> B(Service)
-    B(Service) --> A[Controller]
-    B --> C(Repository)
-    C --> B(Service) 
-```
+![WhatsApp Image 2022-01-30 at 17 59 23](https://user-images.githubusercontent.com/87655126/151717694-b262b7c6-d4f1-4570-bb67-d16d57ea488d.jpeg)
+
+
 
 ## Autor
 
